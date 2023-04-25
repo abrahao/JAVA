@@ -52,3 +52,32 @@ java.nio.file.NoSuchFileException: /Users/abrahaoeneias/Documents/Dev/Java/acade
 2023.04.14 21:42:52 INFO  Shutting down server[0m
 2023.04.14 21:42:52 INFO  shutting down Metals[0m
 2023.04.14 21:42:52 INFO  Exiting server[0m
+2023.04.25 14:06:38 INFO  Started: Metals version 0.11.12 in workspace '/Users/abrahaoeneias/Documents/Dev/Java' for client Visual Studio Code 1.77.3.
+abr 25, 2023 2:06:38 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAÇÕES: Flyway Community Edition 9.16.3 by Redgate
+abr 25, 2023 2:06:38 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: See release notes here: https://rd.gt/416ObMi
+abr 25, 2023 2:06:38 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: 
+abr 25, 2023 2:06:39 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAÇÕES: Database: jdbc:h2:file:/Users/abrahaoeneias/Documents/Dev/Java/.metals/metals (H2 2.1)
+abr 25, 2023 2:06:39 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAÇÕES: Successfully validated 4 migrations (execution time 00:00.088s)
+abr 25, 2023 2:06:39 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAÇÕES: Current version of schema "PUBLIC": 4
+abr 25, 2023 2:06:39 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAÇÕES: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.25 14:06:40 INFO  time: initialize in 1.58s
+2023.04.25 14:06:46 WARN  Build server is not auto-connectable.
+2023.04.25 14:06:46 WARN  no build tool detected in workspace '/Users/abrahaoeneias/Documents/Dev/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.25 14:06:46 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/ContaBanco/ContaTerminal.java
+abr 25, 2023 2:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 2
+abr 25, 2023 2:06:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTÊNCIA: Unmatched cancel notification for request id 1
+2023.04.25 14:06:47 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/ContaBanco/ContaTerminal.java
+2023.04.25 14:06:49 INFO  time: code lens generation in 3.04s
+2023.04.25 14:07:01 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/Voleibol.java
+2023.04.25 14:07:04 INFO  time: code lens generation in 3.04s
+2023.04.25 14:07:25 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/DesafioDioProcessoSeletivo/ProcessoSeletivo.java
+2023.04.25 14:07:40 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/DesafioDioProcessoSeletivo/ProcessoSeletivo.java
