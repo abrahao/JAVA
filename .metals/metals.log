@@ -113,3 +113,30 @@ ADVERTÊNCIA: Unmatched cancel notification for request id 208
 abr 25, 2023 2:20:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 ADVERTÊNCIA: Unmatched cancel notification for request id 331
 2023.04.25 14:21:08 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/Banco_Digital/Main.java
+2023.04.25 14:46:43 INFO  Shutting down server
+2023.04.25 14:46:43 INFO  shutting down Metals
+2023.04.25 14:46:43 INFO  Exiting server
+2023.04.27 13:51:23 INFO  Started: Metals version 0.11.12 in workspace '/Users/abrahaoeneias/Documents/Dev/Java' for client Visual Studio Code 1.77.3.
+abr 27, 2023 1:51:24 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMAÇÕES: Flyway Community Edition 9.16.3 by Redgate
+abr 27, 2023 1:51:24 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: See release notes here: https://rd.gt/416ObMi
+abr 27, 2023 1:51:24 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMAÇÕES: 
+abr 27, 2023 1:51:25 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMAÇÕES: Database: jdbc:h2:file:/Users/abrahaoeneias/Documents/Dev/Java/.metals/metals (H2 2.1)
+abr 27, 2023 1:51:26 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMAÇÕES: Successfully validated 4 migrations (execution time 00:00.351s)
+abr 27, 2023 1:51:26 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMAÇÕES: Current version of schema "PUBLIC": 4
+abr 27, 2023 1:51:26 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMAÇÕES: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.27 13:51:26 INFO  time: initialize in 2.81s
+2023.04.27 13:51:36 WARN  Build server is not auto-connectable.
+2023.04.27 13:51:36 WARN  no build tool detected in workspace '/Users/abrahaoeneias/Documents/Dev/Java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.27 13:51:36 WARN  no build target for: /Users/abrahaoeneias/Documents/Dev/Java/Banco_Digital/Main.java
+2023.04.27 13:51:44 INFO  time: code lens generation in 7.23s
+2023.04.27 13:51:44 INFO  time: code lens generation in 7.48s
+2023.04.27 13:52:45 INFO  Shutting down server
+2023.04.27 13:52:45 INFO  shutting down Metals
+2023.04.27 13:52:45 INFO  Exiting server
